@@ -2,7 +2,7 @@
 
 ## Preparation Steps
 
-1. Fork this repository
+1. Fork this repository Hello
 2. Create two GitHub action secrets (provided by your course instructor) as follows:
 ```
 STATE_MANAGEMENT_BASE64=some_string_here
